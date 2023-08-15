@@ -1,0 +1,23 @@
+
+.App {
+    background-color: grey;
+    max-width: 1100px;
+    margin: 0 auto;
+
+}
+
+table {
+    font-family: Roboto, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: center;
+}
+
+
+
